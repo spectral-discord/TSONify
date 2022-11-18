@@ -1,2 +1,2 @@
 # TSONify
-Documentation for the [TSONify SDKs](https://spectral-discord.github.io/knowledge-garden/#/page/tsonify)
+Documentation for the [TSONify SDKs](https://garden.spectraldiscord.com/#/page/tsonify)
