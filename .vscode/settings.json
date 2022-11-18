@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "file:/workspace/TSON/schema/test.json": "*.test.json",
+    "https://json.schemastore.org/github-workflow.json": "file:///workspace/slate-docs-gitpod-starter/.github/workflows/deploy.yml"
+  }
+}

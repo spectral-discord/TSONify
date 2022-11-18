@@ -1,0 +1,7 @@
+tasks:
+  - init: docker pull slatedocs/slate
+    command: ./scripts/run.sh
+
+ports:
+  - port: 4567
+    onOpen: open-browser
