@@ -1,4 +1,2 @@
-# Slate Docs Gitpod Starter
-Gitpod starter for writing Slate docs
-
-Builds and runs the docs on workspace startup, and deploys to github pages on pushes to the main branch.
+# TSONify
+Documentation for the [TSONify SDKs](https://spectral-discord.github.io/knowledge-garden/#/page/tsonify)
